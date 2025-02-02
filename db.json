@@ -1,0 +1,14 @@
+{
+    "doctors": [
+      { "id": 1, "name": "Dr. John Doe", "specialty": "Cardiology", "experience": "10 years"},
+      { "id": 2, "name": "Dr. Jane Smith", "specialty": "Neurology", "experience": "8 years"},
+      { "id": 3, "name": "Dr. Alice Brown", "specialty": "Dermatology", "experience": "5 years"}
+    ],
+    "services": [
+      { "id": 1, "name": "Cardiology", "description": "Heart-related treatments and diagnostics" },
+      { "id": 2, "name": "Neurology", "description": "Nervous system-related treatments" },
+      { "id": 3, "name": "Dermatology", "description": "Skin-related treatments and care" }
+    ],  
+    "appointments": []
+  }
+  
